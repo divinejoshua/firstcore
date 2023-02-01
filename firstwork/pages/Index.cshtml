@@ -1,12 +1,30 @@
 ﻿@page
 @{
+    //Get time 
+    var hour = DateTime.Now.Hour;
+    string greeting;
+
+    //Conditional statement to set the greeting 
+    if(hour <= 12) {
+        greeting = "Good morning";
+    }
+    else if(hour >= 12 && hour < 16)
+    {
+        greeting = "Good afternoon";
+    }
+    else
+    {
+        greeting = "Good evening";
+    }
+
 
 }
 
 
 <html>
-<body>
-    <h1>Home !</h1>
-    <p>@DateTime.Now</p>
-</body>
+    <body>
+        <h1>Home !</h1>
+        <h3>@greeting, Welcome to my E-commerce System</h3>
+        <p>Today is @DateTime.Now.ToString("dd MMM yyyy")</p>
+    </body>
 </html>
