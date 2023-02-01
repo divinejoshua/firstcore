@@ -24,3 +24,4 @@
 /Users/divine.er/Projects/firstwork/firstwork/obj/Debug/net7.0/firstwork.pdb
 /Users/divine.er/Projects/firstwork/firstwork/obj/Debug/net7.0/firstwork.genruntimeconfig.cache
 /Users/divine.er/Projects/firstwork/firstwork/obj/Debug/net7.0/ref/firstwork.dll
+/Users/divine.er/Projects/firstwork/firstwork/bin/Debug/net7.0/firstwork.staticwebassets.runtime.json

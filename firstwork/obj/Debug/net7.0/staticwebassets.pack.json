@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/divine.er/Projects/firstwork/firstwork/wwwroot/profile.html",
+      "PackagePath": "staticwebassets/profile.html"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.firstwork.props",
+      "PackagePath": "build\\firstwork.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.firstwork.props",
+      "PackagePath": "buildMultiTargeting\\firstwork.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.firstwork.props",
+      "PackagePath": "buildTransitive\\firstwork.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.firstwork.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

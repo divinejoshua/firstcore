@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "XI91KdzVVIwqi/AWZFYR97DHcAF8kftmwzxtl1qoVmU=",
+  "Hash": "Bd+OIfbmpIXyn8Q3jA8Q6/9rq6431XL2B9OkErsBqZI=",
   "Source": "firstwork",
   "BasePath": "_content/firstwork",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "firstwork/wwwroot",
+      "Source": "firstwork",
+      "ContentRoot": "/Users/divine.er/Projects/firstwork/firstwork/wwwroot/",
+      "BasePath": "_content/firstwork",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/divine.er/Projects/firstwork/firstwork/wwwroot/profile.html",
+      "SourceId": "firstwork",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/divine.er/Projects/firstwork/firstwork/wwwroot/",
+      "BasePath": "_content/firstwork",
+      "RelativePath": "profile.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/profile.html"
+    }
+  ]
 }
