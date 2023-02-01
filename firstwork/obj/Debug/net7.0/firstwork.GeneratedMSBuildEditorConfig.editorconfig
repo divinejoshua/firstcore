@@ -15,3 +15,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /Users/divine.er/Projects/firstwork/firstwork
 build_property._RazorSourceGeneratorDebug = 
+
+[/Users/divine.er/Projects/firstwork/firstwork/pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
