@@ -19,3 +19,11 @@ build_property._RazorSourceGeneratorDebug =
 [/Users/divine.er/Projects/firstwork/firstwork/pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = cGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divine.er/Projects/firstwork/firstwork/pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cGFnZXMvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/divine.er/Projects/firstwork/firstwork/pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
